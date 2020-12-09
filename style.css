@@ -1,0 +1,17 @@
+body{
+  text-align:center;
+  background-color: #2fc0e0; 
+}
+img{
+  padding: 20px;
+    border-radius:50%;
+width: 500px
+}
+.img1{
+    width: 800px;
+    border-radius: 20%
+     
+}
+.img2{
+    width: 400px
+}
